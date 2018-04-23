@@ -14,7 +14,7 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "react-styleguidist": "^7.0.8",
+    "react-styleguidist": "6.0.33",
     "webpack": "^3.11.0"
   }
 }

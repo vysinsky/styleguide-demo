@@ -1,6 +1,6 @@
-This does not work: 3 < 4.
+With 6.0.33 it works correctly: 3 < 4.
 
 Same in list
 
-- it does not work
+- it works
 - foo (3 < 4)
